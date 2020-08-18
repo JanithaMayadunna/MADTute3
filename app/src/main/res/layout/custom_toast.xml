@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_toast_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="356dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:fontFamily="sans-serif-medium"
+        android:padding="0"
+        android:paddingLeft="0"
+        android:paddingTop="0"
+        android:paddingRight="0"
+        android:scrollbarTrackHorizontal="@drawable/ic_launcher_background"
+        android:scrollbarTrackVertical="@drawable/ic_launcher_background"
+        android:text="Sending Message"
+        android:textColorLink="#9C27B0"
+        android:textSize="36sp" />
+
+</LinearLayout>
